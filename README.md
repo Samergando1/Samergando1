@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there, I'm Samuel Ergando 👋  
 
-<!--
-**Samergando1/Samergando1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student @ University of Calgary**  
+🔹 Passionate about **Blockchain, DeFi, and Web3 Development**  
+🔹 Building **decentralized solutions** that push fintech forward  
 
-Here are some ideas to get you started:
+### 🛠 What I’m Working On:
+- 🏗 **[WildlifeDAO](https://github.com/Samergando1/WildlifeDAO)** – A decentralized governance platform for wildlife conservation  
+- 📊 **[CryptoPal-V2](https://github.com/Samergando1/CryptoPal-V2)** – A cryptocurrency portfolio tracker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I’m Learning:
+- Exploring **smart contracts, decentralized governance, and Web3 development**  
+- Interested in **new technologies** that drive fintech innovation  
+
+### ⚡ Tech Stack:
+`Solidity` `TypeScript` `React` `Next.js` `TailwindCSS` `PostgreSQL` `Supabase` `Web3.js`  
+
+### 📫 Let’s Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-ergando)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Samergando1)  
