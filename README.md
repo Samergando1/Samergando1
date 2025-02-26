@@ -13,7 +13,7 @@
 - Interested in **new technologies** that drive fintech innovation  
 
 ### ⚡ Tech Stack:
-`Solidity` `TypeScript` `React` `Next.js` `TailwindCSS` `PostgreSQL` `Supabase` `Web3.js`  
+`Java` `TypeScript` `React` `Next.js` `Julia` `PostgreSQL` `Supabase` `Web3.js` 
 
 ### 📫 Let’s Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samuel-ergando)  
