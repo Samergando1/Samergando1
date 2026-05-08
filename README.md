@@ -10,9 +10,7 @@ At Synovion, I lead the development of **FieldOps**, an AI-native field intellig
 
 ## 🧭 What I’m Building
 
-* **Synovion FieldOps** — Offline-first, AI-native field operations platform enabling operators to digitize production, maintenance, and compliance workflows. Currently also working Enterprise access interface Production Cloud, co-developed with **BClouder** to unify field data with enterprise decision systems.
-* **[WildlifeDAO](https://github.com/Samergando1/WildlifeDAO)** — Decentralized governance platform for conservation funding, aligning blockchain transparency with real-world sustainability projects.
-* **[CryptoPal-V2](https://github.com/Samergando1/CryptoPal-V2)** — Intelligent portfolio tracker with real-time asset insights and analytics.
+* **Synovion FieldOps** — Offline-first, AI-native field operations platform enabling operators to digitize production, maintenance, and compliance workflows. Currently also working Enterprise access interface Production Cloud, co-developed with **BClouder** to unify field data with enterprise decision systems..
 
 ---
 
