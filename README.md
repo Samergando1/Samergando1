@@ -6,29 +6,11 @@
 I’m a **product builder and strategist** working at the intersection of **AI, data systems, and industrial operations**.
 At Synovion, I lead the development of **FieldOps**, an AI-native field intelligence platform reimagining how oil & gas operators capture, manage, and act on data — forming the foundation of a unified *operating system for the field*. We’ve recently begun extending FieldOps into an enterprise-scale layer in partnership with **BClouder** to bridge field capture with analytics and compliance systems.
 
----
-
-## 🧭 What I’m Building
-
-* **Synovion FieldOps** — Offline-first, AI-native field operations platform enabling operators to digitize production, maintenance, and compliance workflows. Currently also working Enterprise access interface Production Cloud, co-developed with **BClouder** to unify field data with enterprise decision systems..
-
----
-
-## 💡 Focus Areas
-
-* **Product Ownership & Strategy** — defining vision, architecture, and cross-partner execution across AI, data, and enterprise layers.
-* **Systems Architecture Leadership** — designing interoperable ecosystems connecting mobile capture, ETL, and cloud intelligence.
-* **AI-Native UX & Workflow Design** — translating real-world operator workflows into intelligent, automated capture systems.
-* **Enterprise Integration & Partnerships** — ensuring seamless alignment with data governance, compliance, and production systems.
-* **Decentralized & Financial Systems** — exploring smart contracts, governance models, and transparent funding mechanisms.
-
----
 
 ## ⚙️ Tech Ecosystem
 
-`SwiftUI` `Python` `FastAPI` `React` `Next.js` `TypeScript`
-`PostgreSQL` `Supabase` `Azure` `AWS`
-`OpenAI API`
+`Python` `FastAPI` `React` `Next.js` `TypeScript`
+`PostgreSQL` `Supabase` 
 `Solidity` `Web3.js`
 
 ---
