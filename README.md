@@ -1,6 +1,6 @@
 # Hey there, I'm **Samuel Ergando** 👋
 
-🚀 **Co-Founder & President @ Synovion Technologies Inc.**
+🚀 **Founding Engineer @ Synovion Technologies Inc.**
 🎓 **B.Sc. Computer Science @ University of Calgary**
 
 I’m a **product builder and strategist** working at the intersection of **AI, data systems, and industrial operations**.
