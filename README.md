@@ -3,8 +3,6 @@
 🚀 **Founding Engineer @ Synovion Technologies Inc.**
 🎓 **B.Sc. Computer Science @ University of Calgary**
 
-I’m a **product builder and strategist** working at the intersection of **AI, data systems, and industrial operations**.
-At Synovion, I lead the development of **FieldOps**, an AI-native field intelligence platform reimagining how oil & gas operators capture, manage, and act on data — forming the foundation of a unified *operating system for the field*. We’ve recently begun extending FieldOps into an enterprise-scale layer in partnership with **BClouder** to bridge field capture with analytics and compliance systems.
 
 
 ## ⚙️ Tech Ecosystem
