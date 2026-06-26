@@ -17,6 +17,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge)
+![Microsoft Power Platform](https://img.shields.io/badge/Microsoft%20Power%20Platform-742774?style=for-the-badge)
 
 `Data Science` · `AI/Automation Engineering` · `Data Analysis` · `Predictive Modelling` · 
 
