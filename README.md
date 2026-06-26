@@ -23,6 +23,8 @@
 
 ---
 
-#### 📫 Reach me
+#### ✉️ Reach me
 
-[Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/samuel-ergando-621157267/) · samuel.ergando@ucalgary.ca
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ergando-621157267/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.ergando@ucalgary.ca)
