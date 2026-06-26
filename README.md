@@ -1,7 +1,7 @@
 # Hey there, I'm **Samuel Ergando** 👋
 
-🚀 ** Prev Founding Engineer @ Synovion Technologies Inc.**
-🎓 ** B.Sc. Computer Science @ University of Calgary**
+🚀 **Prev Founding Engineer @ Synovion Technologies Inc.**
+🎓 **B.Sc. Computer Science @ University of Calgary**
 
 
 
