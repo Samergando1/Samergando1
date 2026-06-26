@@ -16,6 +16,7 @@
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge)
 
 `Data Science` · `AI/Automation Engineering` · `Data Analysis` · `Predictive Modelling` · 
 
